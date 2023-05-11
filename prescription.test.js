@@ -6,7 +6,7 @@ const {
   timmy,
   sarah,
   rocky,
-} = require("./prescription.js");
+} = require("./prescriptions.js");
 
 // Testing the totalCost() function
 describe("totalCost function", () => {
